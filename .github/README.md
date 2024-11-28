@@ -53,11 +53,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/PhoenixXsupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/iamvillain77"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/nova_updats"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/iamvillain77"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʜᴇʟᴩᴇʀ](https://telegram.me/itslucciii) ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/playnova_xprobot )_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʜᴇʟᴩᴇʀ](https://telegram.me/iamakki001) ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/iamvillain77 )_ </b>
